@@ -3,6 +3,7 @@
   **I'am not in rigth now, please leave a message.**
   ##
   - :rocket: Currently studying web development at Trybe
+  - :raising_hand: Looking for a Back-End job 
   - :dart:  Business Administration (Pontifícia Universidade Católica de Campinas - PUCC)
   - :muscle: I enjoy video game, soccer and skateboarding!
   ##
@@ -27,7 +28,12 @@
   <img align="center" alt="Joao-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Joao-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Joao-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+  <img align="center" alt="Joao-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Joao-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Joao-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Joao-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
 
+   <link rel="stylesheet" href="">
 </div>
 
 
