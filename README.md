@@ -2,8 +2,7 @@
 ###  Hi you've reached João Ferreira Git! 👊
   **I'am not in rigth now, please leave a message.**
   ##
-  - :rocket: Currently studying web development at Trybe
-  - :raising_hand: Looking for a Back-End job 
+  - :rocket: Working as Back-End Developer at Dinheirow
   - :dart:  Business Administration (Pontifícia Universidade Católica de Campinas - PUCC)
   - :muscle: I enjoy video game, soccer and skateboarding!
   ##
