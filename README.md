@@ -1,6 +1,6 @@
 
 ###  Hi you've reached João Ferreira Git! 👊
-  **I'am not in rigth now, please leave a message.**
+  **I'am not in right now, please leave a message.**
   ##
   - :rocket: Working as Back-End Developer at Dinheirow
   - :dart:  Business Administration (Pontifícia Universidade Católica de Campinas - PUCC)
