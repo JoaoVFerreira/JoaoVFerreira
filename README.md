@@ -2,7 +2,7 @@
 ###  Hi you've reached João Ferreira Git! 👊
   **I'am not in right now, please leave a message.**
   ##
-  - :rocket: Working as Back-End Developer at Dinheirow
+  - :rocket: Working as Back-End Developer at Jazida
   - :dart:  Graduating in Computer Science at Descomplica and graduated in Business Administration (Pontifícia Universidade Católica de Campinas - PUCC)
   - :muscle: I enjoy video game, soccer and skateboarding!
   ##
